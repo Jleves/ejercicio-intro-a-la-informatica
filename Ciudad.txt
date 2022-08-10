@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 General Roca 
 
 
 
 Modificacion Participan A
+=======
+capital modificado por paryticipante B
+ segunda modificacion 
+>>>>>>> a794154d2a140a6b2e8c12493c65fd39eac63f49
